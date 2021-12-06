@@ -1,2 +1,4 @@
 # TicTacToe
-Creating repo for tictactoe
+Updating TicTacToe Readme.
+
+Showing how a repo works.
